@@ -1,0 +1,88 @@
+.d1{
+   background-color: rgb(231, 232, 240);
+  
+   width: auto;
+   height: 60px;
+
+}
+#name{
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:rgb(37, 107, 168)
+}
+
+.d2{
+margin-top: 30px;
+
+  width:auto;
+  height: 650px;
+background-color: rgb(231, 232, 240);;
+}
+
+.d3{
+  background-color: rgb(231, 232, 240);
+ 
+  width: auto;
+  height: 50px;
+}
+button{
+  margin-left: 600px;
+  margin-top: 10px;
+}
+h2{
+  margin-top: 0px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+  
+  }
+  li{
+      list-style: none;
+      display:inline;
+  }
+  .ab{
+      margin-left: 1000px;
+      text-decoration: solid;
+      color: rgb(12, 3, 3);
+      
+  }
+.img1 {
+width:400px;
+height:300px;
+margin-left: 500px;
+
+}
+.desc{
+  margin-left: 500px;
+  color: #021a07;
+  font-size: 25px;
+}
+.cn{
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left:200px;
+}
+.profile {
+margin-top: 25px;
+}
+#d2{
+  background-color: #200750;
+}
+.th1{
+font-size: 25px;
+}
+.tr1{
+  background-color:#110505;
+  color:white;
+  font-size: 25px;
+}
+.tr2{
+font-size: 25px;
+  color:rgb(32, 163, 91);
+}
+#pd{
+color:rgb(246, 250, 252);
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
